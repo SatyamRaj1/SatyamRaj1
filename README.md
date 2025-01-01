@@ -8,7 +8,7 @@ Languages: Proficient in C++ and Python.
 
 Cryptography and Network Enthusiast: I've worked on cryptography and implemented various TCP and UDP connections in C++.
 
-Machine Learning Aficionado: I've built machine learning models from scratch using Python.
+Machine Learning Aficionado: I've built machine learning models from scratch using Python, worked in LLMs for research to detect racial, religous and gender bias.
 
 Algorithms & Data Structures: I excel in DSA and problem-solving.
 
