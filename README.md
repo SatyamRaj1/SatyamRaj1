@@ -1,4 +1,4 @@
-👋 Hi there! I'm Satyam Raj Purohit, a Computer Science undergraduate student at the prestigious Indian Institute of Technology Jammu, with an expected graduation date in 2024.
+👋 Hi there! I'm Satyam Raj Purohit, a Computer Science undergraduate student at the prestigious Indian Institute of Technology Jammu(2024).
 
 🚀 My Passion: I have a strong passion for software development and have honed my skills in various areas of computer science.
 
